@@ -1,0 +1,10 @@
+npm-debug.log
+node_modules
+bower_components
+
+*DS_Store
+
+React\**\node_modules
+React\**\npm-debug.log
+Mongodb\node_modules
+Demo\node_modules
